@@ -14,6 +14,8 @@ the sequence of fruit is increased. There are 4 frutis from which the app can ch
 * Strawberry.as - symbol for Strawberry
 * CircleDragExample.swf and CircleDragExamplefl.doc - example files
 * FruitFollowFun.html - the html
+* Sequence.as - Takes care of sequencing the fruits for the app to pick randomly
+* GameBoard.as - Main file where cvEvent is collected
 * Fruit.as - symbol for Fruit
 * FruiFollowFun.fla__ - the application gui
 * FruiFollowFun.swf__ - the exported application
